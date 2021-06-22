@@ -1,0 +1,23 @@
+#
+# This file is part of the WarheadApp Project. See AUTHORS file for Copyright information
+#
+# This file is free software; as a special exception the author gives
+# unlimited permission to copy and/or distribute it, with or without
+# modifications, as long as this notice is preserved.
+#
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY, to the extent permitted by law; without even the
+# implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#
+
+# Add Foundation lib
+add_subdirectory(Foundation)
+
+# Add lib Poco::Encodings
+# add_subdirectory(Encodings)
+
+# Add lib Poco::Net
+# add_subdirectory(Net)
+
+# Add lib Poco::Util
+# add_subdirectory(Util)
